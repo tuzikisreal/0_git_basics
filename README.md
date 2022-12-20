@@ -189,13 +189,29 @@ git push –all - отправляет изменения, сделанные в
    ![image](https://user-images.githubusercontent.com/121123078/208741250-631a98f0-25fd-4950-93ec-c492bb67ea42.png)
 
 7. Обновляем удаленный репозиторий репозиторий (делаем пуш)
+   ![image](https://user-images.githubusercontent.com/121123078/208748800-4ce3d4e6-b1f3-47a0-a4c0-dcbc7fa5b78f.png)
+
 8. Через текстовый редактор добавить любую новую строку с комментарием
+   ![image](https://user-images.githubusercontent.com/121123078/208749621-b2ecdf82-5517-481f-b4c1-d6ae1d134fd3.png)
+![image](https://user-images.githubusercontent.com/121123078/208749713-dc701777-81c8-4f24-b94e-83317332db51.png)
+
 9. Сделать коммит
+![image](https://user-images.githubusercontent.com/121123078/208749844-c32ec226-0796-4d78-a023-46764e1e1129.png)
+
 10. Вности синтаксическую ошибку в скрипт
+   ![image](https://user-images.githubusercontent.com/121123078/208750130-0208b44c-3409-4552-a1f8-82cf13101b70.png)
+
 11. Сделать коммит ошибочного скрипта
+   ![image](https://user-images.githubusercontent.com/121123078/208750135-5ec103d8-20e6-465b-965d-a95c8131d7cf.png)
+
 12. Откатываем до последней рабочей версии
+   ![image](https://user-images.githubusercontent.com/121123078/208750245-a22ba458-7c63-4419-8327-f03b23ac59d4.png)
+
 13. Просмотреть историю коммитов
+![image](https://user-images.githubusercontent.com/121123078/208750347-3ae8715d-1332-4f92-ac36-20af5b432bb4.png)
+   
 15. Добавить несколько коммитов произвольного содержимого
+   
 16. Создать пулл реквест в данный репозиторий
 
 
